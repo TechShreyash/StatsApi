@@ -18,9 +18,9 @@ app = Flask(__name__)
 
 @app.route("/increaseViews")
 def increaseViewsRoute():
-    website = request.args.get("Referer")
+    website = request.headers.get("Referer")
     if website is None:
-        website = request.args.get("referer")
+        website = request.headers.get("referer")
 
     if website is None:
         website = "direct"
@@ -33,11 +33,12 @@ def increaseViewsRoute():
                 headers={"text": "from pythondb" + str(e)},
             )
             pass
-
+    print(website)
     increaseViews(website)
     return "Views increased by 10"
 
+
 import os
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run(debug=True, port=os.getenv("PORT", default=5000))

@@ -42,6 +42,7 @@ export default {
             const url = request.url;
 
             if (url.includes("/inc")) {
+                return Response.redirect('https://statsapi-production-871f.up.railway.app/increaseViews', 301)
                 const headers = request.headers;
                 let referer = String(headers.get("Referer"));
                 if (referer == 'null') {
