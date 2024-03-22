@@ -1,0 +1,2997 @@
+[{
+  "_id": {
+    "$oid": "65f57d58ee9126fb2a1099d6"
+  },
+  "id": "https://eng.deadtoons.online/",
+  "views": 12605
+},
+{
+  "_id": {
+    "$oid": "65f57d5f59ccc49ae49d2ea0"
+  },
+  "id": "https://vvid.xyz/",
+  "views": 2695
+},
+{
+  "_id": {
+    "$oid": "65f57d5fa1d4525acd0b0ef2"
+  },
+  "id": null,
+  "views": 1952,
+  "_id__baas_transaction": {
+    "$oid": "65facfaa7947218f6ec1b9fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f57d7f400fcade0498a383"
+  },
+  "id": "https://animedex.pages.dev/",
+  "views": 18246
+},
+{
+  "_id": {
+    "$oid": "65f57da3ee9126fb2a110750"
+  },
+  "id": "http://127.0.0.1:5500/",
+  "views": 1489
+},
+{
+  "_id": {
+    "$oid": "65f57db759ccc49ae49db1f1"
+  },
+  "id": "https://aniwave.sbs/",
+  "views": 763
+},
+{
+  "_id": {
+    "$oid": "65f57dc5ee9126fb2a113854"
+  },
+  "id": "https://sussyanime.com/",
+  "views": 2811
+},
+{
+  "_id": {
+    "$oid": "65f57dedee9126fb2a117001"
+  },
+  "id": "https://animxer.xyz/",
+  "views": 2834
+},
+{
+  "_id": {
+    "$oid": "65f57dfeee9126fb2a118515"
+  },
+  "id": "https://lostzoro.com/",
+  "views": 2707
+},
+{
+  "_id": {
+    "$oid": "65f57e90a1d4525acd0ce97f"
+  },
+  "id": "https://anime.engsubtv.com/",
+  "views": 1927
+},
+{
+  "_id": {
+    "$oid": "65f57e90ee9126fb2a1277a7"
+  },
+  "id": "https://anime.engsubtv.com/",
+  "views": 671
+},
+{
+  "_id": {
+    "$oid": "65f57e9059ccc49ae49f079e"
+  },
+  "id": "https://anime.engsubtv.com/",
+  "views": 273
+},
+{
+  "_id": {
+    "$oid": "65f57e9059ccc49ae49f07a1"
+  },
+  "id": "https://anime.engsubtv.com/",
+  "views": 176
+},
+{
+  "_id": {
+    "$oid": "65f57e90a1d4525acd0ce986"
+  },
+  "id": "https://anime.engsubtv.com/",
+  "views": 132
+},
+{
+  "_id": {
+    "$oid": "65f57e90a1d4525acd0ce984"
+  },
+  "id": "https://anime.engsubtv.com/",
+  "views": 96
+},
+{
+  "_id": {
+    "$oid": "65f57f3ba1d4525acd0de348"
+  },
+  "id": "https://iotserver24.github.io/",
+  "views": 396
+},
+{
+  "_id": {
+    "$oid": "65f580f8a1d4525acd10854c"
+  },
+  "id": "https://5anime.org/",
+  "views": 623
+},
+{
+  "_id": {
+    "$oid": "65f58146a1d4525acd10e0fa"
+  },
+  "id": "https://9animes.vip/",
+  "views": 156
+},
+{
+  "_id": {
+    "$oid": "65f58146ee9126fb2a165955"
+  },
+  "id": "https://9animes.vip/",
+  "views": 61
+},
+{
+  "_id": {
+    "$oid": "65f58146400fcade049e1096"
+  },
+  "id": "https://9animes.vip/",
+  "views": 40
+},
+{
+  "_id": {
+    "$oid": "65f58146400fcade049e1094"
+  },
+  "id": "https://9animes.vip/",
+  "views": 27
+},
+{
+  "_id": {
+    "$oid": "65f58146ee9126fb2a165958"
+  },
+  "id": "https://9animes.vip/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f58146400fcade049e10a1"
+  },
+  "id": "https://9animes.vip/",
+  "views": 11
+},
+{
+  "_id": {
+    "$oid": "65f58146a1d4525acd10e105"
+  },
+  "id": "https://9animes.vip/",
+  "views": 9
+},
+{
+  "_id": {
+    "$oid": "65f58577400fcade04a41105"
+  },
+  "id": "https://animedexlite.vercel.app/",
+  "views": 691
+},
+{
+  "_id": {
+    "$oid": "65f5867459ccc49ae4aa62d4"
+  },
+  "id": "https://gogomovie.online/",
+  "views": 2574
+},
+{
+  "_id": {
+    "$oid": "65f58782ee9126fb2a1f3acd"
+  },
+  "id": "https://manaboza06.xyz/",
+  "views": 122
+},
+{
+  "_id": {
+    "$oid": "65f5878259ccc49ae4abcb46"
+  },
+  "id": "https://manaboza06.xyz/",
+  "views": 62
+},
+{
+  "_id": {
+    "$oid": "65f58782a1d4525acd19b973"
+  },
+  "id": "https://manaboza06.xyz/",
+  "views": 53
+},
+{
+  "_id": {
+    "$oid": "65f58782ee9126fb2a1f3ad6"
+  },
+  "id": "https://manaboza06.xyz/",
+  "views": 54
+},
+{
+  "_id": {
+    "$oid": "65f58782ee9126fb2a1f3ad4"
+  },
+  "id": "https://manaboza06.xyz/",
+  "views": 37
+},
+{
+  "_id": {
+    "$oid": "65f58782400fcade04a6e322"
+  },
+  "id": "https://manaboza06.xyz/",
+  "views": 30
+},
+{
+  "_id": {
+    "$oid": "65f58782ee9126fb2a1f3ae8"
+  },
+  "id": "https://manaboza06.xyz/",
+  "views": 18
+},
+{
+  "_id": {
+    "$oid": "65f589c759ccc49ae4af029e"
+  },
+  "id": "https://aniwatchtv.top/",
+  "views": 4562
+},
+{
+  "_id": {
+    "$oid": "65f58ad2400fcade04abe2db"
+  },
+  "id": "http://localhost:8158/",
+  "views": 19
+},
+{
+  "_id": {
+    "$oid": "65f58ad259ccc49ae4b0c6bd"
+  },
+  "id": "http://localhost:8158/",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f58b0d400fcade04ac23e4"
+  },
+  "id": "https://anitoon.pages.dev/",
+  "views": 14
+},
+{
+  "_id": {
+    "$oid": "65f58b0da1d4525acd1efe57"
+  },
+  "id": "https://anitoon.pages.dev/",
+  "views": 6
+},
+{
+  "_id": {
+    "$oid": "65f58b0da1d4525acd1efe59"
+  },
+  "id": "https://anitoon.pages.dev/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f58b0d59ccc49ae4b10d03"
+  },
+  "id": "https://anitoon.pages.dev/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f58b0d081d2130acec8068"
+  },
+  "id": "https://anitoon.pages.dev/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f58b0d400fcade04ac23e6"
+  },
+  "id": "https://anitoon.pages.dev/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f58b0d081d2130acec806c"
+  },
+  "id": "https://anitoon.pages.dev/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f58d76a1d4525acd226518"
+  },
+  "id": "http://tvmoyo.totalh.net/",
+  "views": 47
+},
+{
+  "_id": {
+    "$oid": "65f58e4f400fcade04b0be16"
+  },
+  "id": "https://animegalaxie.site/",
+  "views": 70
+},
+{
+  "_id": {
+    "$oid": "65f58e4f59ccc49ae4b5af95"
+  },
+  "id": "https://animegalaxie.site/",
+  "views": 22
+},
+{
+  "_id": {
+    "$oid": "65f58e71ee9126fb2a293284"
+  },
+  "id": "https://chadanime.dappling.network/",
+  "views": 85
+},
+{
+  "_id": {
+    "$oid": "65f58f9759ccc49ae4b763c0"
+  },
+  "id": "https://tvmoyo.totalh.net/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f58f9759ccc49ae4b763e3"
+  },
+  "id": "https://tvmoyo.totalh.net/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f58f97400fcade04b26fa5"
+  },
+  "id": "https://tvmoyo.totalh.net/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f58f97400fcade04b26fa7"
+  },
+  "id": "https://tvmoyo.totalh.net/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f58f97ee9126fb2a2ab8ec"
+  },
+  "id": "https://tvmoyo.totalh.net/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5915f59ccc49ae4b9c846"
+  },
+  "id": "https://anitummy.com/",
+  "views": 164
+},
+{
+  "_id": {
+    "$oid": "65f5957d400fcade04baab0e"
+  },
+  "id": "https://papaanime.rf.gd/",
+  "views": 59
+},
+{
+  "_id": {
+    "$oid": "65f5aec1ee9126fb2a5bfeae"
+  },
+  "id": "https://anime.thetemuge.com/",
+  "views": 211
+},
+{
+  "_id": {
+    "$oid": "65f5aec1400fcade04e2d492"
+  },
+  "id": "https://anime.thetemuge.com/",
+  "views": 83
+},
+{
+  "_id": {
+    "$oid": "65f5aec1ee9126fb2a5bfeb0"
+  },
+  "id": "https://anime.thetemuge.com/",
+  "views": 83
+},
+{
+  "_id": {
+    "$oid": "65f5aec1a1d4525acd56babf"
+  },
+  "id": "https://anime.thetemuge.com/",
+  "views": 100
+},
+{
+  "_id": {
+    "$oid": "65f5aec1400fcade04e2d49f"
+  },
+  "id": "https://anime.thetemuge.com/",
+  "views": 71
+},
+{
+  "_id": {
+    "$oid": "65f5aec159ccc49ae4e6f49c"
+  },
+  "id": "https://anime.thetemuge.com/",
+  "views": 38
+},
+{
+  "_id": {
+    "$oid": "65f5b0c3a1d4525acd59843c"
+  },
+  "id": "https://topanime.rf.gd/",
+  "views": 80
+},
+{
+  "_id": {
+    "$oid": "65f5b0c3a1d4525acd598441"
+  },
+  "id": "https://topanime.rf.gd/",
+  "views": 52
+},
+{
+  "_id": {
+    "$oid": "65f5b967a1d4525acd65b869"
+  },
+  "id": "https://revondex.blogspot.com/",
+  "views": 48
+},
+{
+  "_id": {
+    "$oid": "65f5b967a1d4525acd65b86d"
+  },
+  "id": "https://revondex.blogspot.com/",
+  "views": 15
+},
+{
+  "_id": {
+    "$oid": "65f5bcf9b971130054c410fa"
+  },
+  "id": "https://animedex-lite.netlify.app/",
+  "views": 51
+},
+{
+  "_id": {
+    "$oid": "65f5bcf9b971130054c4110f"
+  },
+  "id": "https://animedex-lite.netlify.app/",
+  "views": 22
+},
+{
+  "_id": {
+    "$oid": "65f5bcf959ccc49ae4fa85be"
+  },
+  "id": "https://animedex-lite.netlify.app/",
+  "views": 11
+},
+{
+  "_id": {
+    "$oid": "65f5bcf9a1d4525acd6a7c0b"
+  },
+  "id": "https://animedex-lite.netlify.app/",
+  "views": 9
+},
+{
+  "_id": {
+    "$oid": "65f5bcf9400fcade04f66708"
+  },
+  "id": "https://animedex-lite.netlify.app/",
+  "views": 9
+},
+{
+  "_id": {
+    "$oid": "65f5bcf959ccc49ae4fa85c0"
+  },
+  "id": "https://animedex-lite.netlify.app/",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f5bcfab971130054c4111a"
+  },
+  "id": "https://animedex-lite.netlify.app/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f5bd5c59ccc49ae4faef5c"
+  },
+  "id": "https://otaku-co.42web.io/",
+  "views": 1245
+},
+{
+  "_id": {
+    "$oid": "65f5bd5c59ccc49ae4faef60"
+  },
+  "id": "https://otaku-co.42web.io/",
+  "views": 128
+},
+{
+  "_id": {
+    "$oid": "65f5bd5c59ccc49ae4faef9d"
+  },
+  "id": "https://otaku-co.42web.io/",
+  "views": 80
+},
+{
+  "_id": {
+    "$oid": "65f5bd5cb971130054c47b50"
+  },
+  "id": "https://otaku-co.42web.io/",
+  "views": 47
+},
+{
+  "_id": {
+    "$oid": "65f5c19b400fcade04fc2b40"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 409
+},
+{
+  "_id": {
+    "$oid": "65f5c19bb971130054c9cb89"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 160
+},
+{
+  "_id": {
+    "$oid": "65f5c19b400fcade04fc2b4e"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 108
+},
+{
+  "_id": {
+    "$oid": "65f5c19b400fcade04fc2b67"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 69
+},
+{
+  "_id": {
+    "$oid": "65f5c19b400fcade04fc2b70"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 40
+},
+{
+  "_id": {
+    "$oid": "65f5c19bb971130054c9cbae"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 43
+},
+{
+  "_id": {
+    "$oid": "65f5c19ba1d4525acd705485"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 24
+},
+{
+  "_id": {
+    "$oid": "65f5c19ba1d4525acd705499"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 17
+},
+{
+  "_id": {
+    "$oid": "65f5c19ba1d4525acd7054e7"
+  },
+  "id": "https://shikaisite.vercel.app/",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65f5c56ba1d4525acd76d399"
+  },
+  "id": "http://127.0.0.1:3000/",
+  "views": 305,
+  "_id__baas_transaction": {
+    "$oid": "65faca2e7947218f6eb68147"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f5c82f59ccc49ae40ac5c7"
+  },
+  "id": "https://litestream.pages.dev/",
+  "views": 58
+},
+{
+  "_id": {
+    "$oid": "65f5c82fb971130054d43619"
+  },
+  "id": "https://anime.mohanishx.link/",
+  "views": 40
+},
+{
+  "_id": {
+    "$oid": "65f5cab3a1d4525acd7d771c"
+  },
+  "id": "http://localhost:5173/",
+  "views": 1150
+},
+{
+  "_id": {
+    "$oid": "65f5cb5f400fcade040a13d2"
+  },
+  "id": "https://anime-toon.netlify.app/",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f5cb5fa1d4525acd7e483c"
+  },
+  "id": "https://anime-toon.netlify.app/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f5cb5fa1d4525acd7e483e"
+  },
+  "id": "https://anime-toon.netlify.app/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f5cb5f59ccc49ae40e2ce2"
+  },
+  "id": "https://anime-toon.netlify.app/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f5cb5f0df96973c61ef8ec"
+  },
+  "id": "https://anime-toon.netlify.app/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f5cb5f59ccc49ae40e2ce0"
+  },
+  "id": "https://anime-toon.netlify.app/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f5cb5f400fcade040a13d4"
+  },
+  "id": "https://anime-toon.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea40df96973c622c416"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea459ccc49ae4120213"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea4400fcade040ded5c"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea40df96973c622c418"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea4a1d4525acd822da1"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea4a1d4525acd822da3"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea459ccc49ae4120223"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea4400fcade040ded6d"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cea40df96973c622c43a"
+  },
+  "id": "https://gogomovie.online/anime.html?anime_id=one-punch-man-2nd-season-dub",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5ceab0df96973c622cc9b"
+  },
+  "id": "https://gogomovie.online/embed.html?url=https://www087.vipanicdn.net/streamhls/dba7c79ab702bf9123a29976c0a60b7a/ep.6.1709069245.m3u8&id=null-episode-null",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f5ceab0df96973c622ccd7"
+  },
+  "id": "https://gogomovie.online/episode.html?anime_id=one-punch-man-2nd-season-dub&episode_id=one-punch-man-2nd-season-dub-episode-6",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f5ceab59ccc49ae4120b44"
+  },
+  "id": "https://gogomovie.online/episode.html?anime_id=one-punch-man-2nd-season-dub&episode_id=one-punch-man-2nd-season-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5ceab0df96973c622ccfa"
+  },
+  "id": "https://gogomovie.online/episode.html?anime_id=one-punch-man-2nd-season-dub&episode_id=one-punch-man-2nd-season-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5ceab59ccc49ae4120b48"
+  },
+  "id": "https://gogomovie.online/episode.html?anime_id=one-punch-man-2nd-season-dub&episode_id=one-punch-man-2nd-season-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5ceab59ccc49ae4120b4a"
+  },
+  "id": "https://gogomovie.online/episode.html?anime_id=one-punch-man-2nd-season-dub&episode_id=one-punch-man-2nd-season-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cee3400fcade040e4043"
+  },
+  "id": "https://gogomovie.online/embed.html?url=https://www087.anicdnstream.info/videos/hls/qEgUYmsAlDMlSMSr5flrNA/1710622474/133928/dba7c79ab702bf9123a29976c0a60b7a/ep.6.1709069245.m3u8&id=null-episode-null",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5cfe6400fcade040f70f1"
+  },
+  "id": "https://animedex.pp.ua/",
+  "views": 330
+},
+{
+  "_id": {
+    "$oid": "65f5d43fa1d4525acd89a165"
+  },
+  "id": "https://gogomovie.online/embed.html?url=https://www032.vipanicdn.net/streamhls/dba7c79ab702bf9123a29976c0a60b7a/ep.7.1709537323.m3u8&id=null-episode-null",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f5dca90df96973c633b5e1"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 190
+},
+{
+  "_id": {
+    "$oid": "65f5dca959ccc49ae4231b4f"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 60
+},
+{
+  "_id": {
+    "$oid": "65f5dca9a1d4525acd9375eb"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 50
+},
+{
+  "_id": {
+    "$oid": "65f5dca90df96973c633b60b"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 50
+},
+{
+  "_id": {
+    "$oid": "65f5dca9400fcade041f15e8"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 30
+},
+{
+  "_id": {
+    "$oid": "65f5dca9a1d4525acd93760c"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f5dca9400fcade041f15f8"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f5dca9400fcade041f160f"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f5dca9a1d4525acd93764b"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f5dca9a1d4525acd937653"
+  },
+  "id": "https://ihkanime.vercel.app/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f5ded1400fcade04220b60"
+  },
+  "id": "https://sankeer28.github.io/",
+  "views": 13
+},
+{
+  "_id": {
+    "$oid": "65f5ded10df96973c636a6c2"
+  },
+  "id": "https://sankeer28.github.io/",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f5ded20df96973c636a6c7"
+  },
+  "id": "https://sankeer28.github.io/",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f5e6cb59ccc49ae4332f5a"
+  },
+  "id": "https://hub.fulltoonsindia.site/",
+  "views": 23
+},
+{
+  "_id": {
+    "$oid": "65f5eb4c400fcade04386b40"
+  },
+  "id": "https://anitaku.sbs/",
+  "views": 48
+},
+{
+  "_id": {
+    "$oid": "65f5ec68400fcade043b4203"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-4",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5f1c8400fcade0443e35d"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-5",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f5f74f400fcade0449bff3"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-6",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f6038e400fcade0456a5f7"
+  },
+  "id": "https://watchfreemovies.xyz/",
+  "views": 580
+},
+{
+  "_id": {
+    "$oid": "65f6038ea1d4525acdcaeeab"
+  },
+  "id": "https://watchfreemovies.xyz/",
+  "views": 278
+},
+{
+  "_id": {
+    "$oid": "65f60fc8bf0fe30570dd269e"
+  },
+  "id": "http://watch.raretoonindia.online/",
+  "views": 52
+},
+{
+  "_id": {
+    "$oid": "65f611fba1d4525acdd9b88e"
+  },
+  "id": "https://animefox.cc/",
+  "views": 32
+},
+{
+  "_id": {
+    "$oid": "65f620ca400fcade0472c269"
+  },
+  "id": "https://vvid.xyz/embed.php?id=maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-dub-episode-2",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f620e1400fcade0472d3d6"
+  },
+  "id": "https://vvid.xyz/embed.php?id=ore-dake-level-up-na-ken-episode-10",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f63084400fcade0480d02f"
+  },
+  "id": "https://vvid.xyz/embed.php?id=one-piece-film-z-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f641f059ccc49ae4933eb6"
+  },
+  "id": "null",
+  "views": 4560
+},
+{
+  "_id": {
+    "$oid": "65f647660df96973c6a82812"
+  },
+  "id": "https://vvid.xyz/embed.php?id=ore-dake-level-up-na-ken-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f64a60400fcade04977482"
+  },
+  "id": "https://vvid.xyz/embed.php?id=one-piece-movie-14-stampede-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f64faa0df96973c6b0826f"
+  },
+  "id": "https://pro--player.blogspot.com/",
+  "views": 28
+},
+{
+  "_id": {
+    "$oid": "65f651c1a1d4525acd13d793"
+  },
+  "id": "https://65f5b88d9a02abcf931c981e--dynamic-pixie-f34349.netlify.app/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f651c159ccc49ae4a2be4e"
+  },
+  "id": "https://65f5b88d9a02abcf931c981e--dynamic-pixie-f34349.netlify.app/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f651c1400fcade049f62bd"
+  },
+  "id": "https://65f5b88d9a02abcf931c981e--dynamic-pixie-f34349.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f651c1a1d4525acd13d7a0"
+  },
+  "id": "https://65f5b88d9a02abcf931c981e--dynamic-pixie-f34349.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f651c1400fcade049f62d4"
+  },
+  "id": "https://65f5b88d9a02abcf931c981e--dynamic-pixie-f34349.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f651c10df96973c6b2afe3"
+  },
+  "id": "https://65f5b88d9a02abcf931c981e--dynamic-pixie-f34349.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f651d0400fcade049f7488"
+  },
+  "id": "https://65f171f0c4066cbd1b9e45cf--dynamic-pixie-f34349.netlify.app/",
+  "views": 6
+},
+{
+  "_id": {
+    "$oid": "65f651d0a1d4525acd13e915"
+  },
+  "id": "https://65f171f0c4066cbd1b9e45cf--dynamic-pixie-f34349.netlify.app/",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f651d0400fcade049f748c"
+  },
+  "id": "https://65f171f0c4066cbd1b9e45cf--dynamic-pixie-f34349.netlify.app/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f651d059ccc49ae4a2d06c"
+  },
+  "id": "https://65f171f0c4066cbd1b9e45cf--dynamic-pixie-f34349.netlify.app/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f651d00df96973c6b2c177"
+  },
+  "id": "https://65f171f0c4066cbd1b9e45cf--dynamic-pixie-f34349.netlify.app/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f651d0a1d4525acd13e91a"
+  },
+  "id": "https://65f171f0c4066cbd1b9e45cf--dynamic-pixie-f34349.netlify.app/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f654e4400fcade04a323d0"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-7",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f655fd59ccc49ae4a92a3e"
+  },
+  "id": "https://0ce21732-8a97-4340-9814-6582ab40eef6-00-2wq0u3swaq1qm.kirk.replit.dev/",
+  "views": 15
+},
+{
+  "_id": {
+    "$oid": "65f655fd0df96973c6b90969"
+  },
+  "id": "https://0ce21732-8a97-4340-9814-6582ab40eef6-00-2wq0u3swaq1qm.kirk.replit.dev/",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f655fd400fcade04a5c51e"
+  },
+  "id": "https://0ce21732-8a97-4340-9814-6582ab40eef6-00-2wq0u3swaq1qm.kirk.replit.dev/",
+  "views": 6
+},
+{
+  "_id": {
+    "$oid": "65f655fd193ac5bc7c4721a1"
+  },
+  "id": "https://0ce21732-8a97-4340-9814-6582ab40eef6-00-2wq0u3swaq1qm.kirk.replit.dev/",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f655fd59ccc49ae4a92a43"
+  },
+  "id": "https://0ce21732-8a97-4340-9814-6582ab40eef6-00-2wq0u3swaq1qm.kirk.replit.dev/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f655fd59ccc49ae4a92a45"
+  },
+  "id": "https://0ce21732-8a97-4340-9814-6582ab40eef6-00-2wq0u3swaq1qm.kirk.replit.dev/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f659c7a1d4525acd1dc3c0"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-8",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f65b940df96973c6be55af"
+  },
+  "id": "https://ab-anime-streamer.pages.dev/",
+  "views": 51
+},
+{
+  "_id": {
+    "$oid": "65f65b94400fcade04ab2676"
+  },
+  "id": "https://ab-anime-streamer.pages.dev/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f65fa0400fcade04b01d17"
+  },
+  "id": "https://animeclasher.000webhostapp.com/",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f65fec0df96973c6c39faa"
+  },
+  "id": "https://vvid.xyz/embed.php?id=ore-dake-level-up-na-ken-korean-dub-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f665ba0df96973c6c9aa6e"
+  },
+  "id": "https://vvid.xyz/embed.php?id=boku-no-kokoro-no-yabai-yatsu-season-2-episode-11",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f6696fcc74106068d9dd03"
+  },
+  "id": "https://vvid.xyz/embed.php?id=saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru-episode-11",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f66c5459ccc49ae4c0ebf3"
+  },
+  "id": "https://vvid.xyz/embed.php?id=mashle-2nd-season-episode-10",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f66dc359ccc49ae4c25532"
+  },
+  "id": "http://nyaachann.unaux.com/",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f66dc359ccc49ae4c25534"
+  },
+  "id": "http://nyaachann.unaux.com/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f66dc3cc74106068dec70c"
+  },
+  "id": "http://nyaachann.unaux.com/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f66dc3400fcade04bf32bf"
+  },
+  "id": "http://nyaachann.unaux.com/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f66dc359ccc49ae4c25570"
+  },
+  "id": "http://nyaachann.unaux.com/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f6707ba1d4525acd35e1bb"
+  },
+  "id": "https://xyxanime.rf.gd/",
+  "views": 50
+},
+{
+  "_id": {
+    "$oid": "65f675ad400fcade04c6dc7c"
+  },
+  "id": "https://anime-dex.blogspot.com/",
+  "views": 25
+},
+{
+  "_id": {
+    "$oid": "65f675ad7dc104a777ccd7b4"
+  },
+  "id": "https://anime-dex.blogspot.com/",
+  "views": 12
+},
+{
+  "_id": {
+    "$oid": "65f675ad59ccc49ae4c9c513"
+  },
+  "id": "https://anime-dex.blogspot.com/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f6ab38400fcade04023fbb"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-9",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f6ad15400fcade04044530"
+  },
+  "id": "https://vvid.xyz/embed.php?id=ronin-warriors-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f6af73400fcade0406d4a2"
+  },
+  "id": "https://ab-streamer.vercel.app/",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f6af7359ccc49ae40a219f"
+  },
+  "id": "https://ab-streamer.vercel.app/",
+  "views": 6
+},
+{
+  "_id": {
+    "$oid": "65f6af73400fcade0406d4ab"
+  },
+  "id": "https://ab-streamer.vercel.app/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f6b78e59ccc49ae414d2c7"
+  },
+  "id": "https://madstream.one/",
+  "views": 180
+},
+{
+  "_id": {
+    "$oid": "65f6d1189fc324f90a695e18"
+  },
+  "id": "http://localhost:3000/",
+  "views": 2810
+},
+{
+  "_id": {
+    "$oid": "65f6ddc7400fcade044072aa"
+  },
+  "id": "https://anime-wdzone.netlify.app/",
+  "views": 14
+},
+{
+  "_id": {
+    "$oid": "65f6ddc8400fcade044072af"
+  },
+  "id": "https://anime-wdzone.netlify.app/",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f6dea3400fcade0441706f"
+  },
+  "id": "https://animeasta.000webhostapp.com/",
+  "views": 12
+},
+{
+  "_id": {
+    "$oid": "65f6dea39fc324f90a79506f"
+  },
+  "id": "https://animeasta.000webhostapp.com/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f6dea359ccc49ae44527ce"
+  },
+  "id": "https://animeasta.000webhostapp.com/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f6e19a400fcade044565d4"
+  },
+  "id": "https://cynibot.github.io/",
+  "views": 12
+},
+{
+  "_id": {
+    "$oid": "65f6e19a400fcade044565d6"
+  },
+  "id": "https://cynibot.github.io/",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f6e8f6400fcade044d7765"
+  },
+  "id": "https://anime-rc-yypx.vercel.app/",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65f6e8f659ccc49ae4510b92"
+  },
+  "id": "https://anime-rc-yypx.vercel.app/",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65f6f2299fc324f90a913933"
+  },
+  "id": "https://vvid.xyz/embed.php?id=kanojo-mo-kanojo-season-2-dub-episode-10",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7098959ccc49ae47b4c32"
+  },
+  "id": "http://www.minoshima.net/",
+  "views": 322
+},
+{
+  "_id": {
+    "$oid": "65f7193759ccc49ae48c9476"
+  },
+  "id": "https://kanime-mu.vercel.app/",
+  "views": 19
+},
+{
+  "_id": {
+    "$oid": "65f72273a1d4525acd06182f"
+  },
+  "id": "https://watch.raretoonindia.online/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f72273a1d4525acd061837"
+  },
+  "id": "https://watch.raretoonindia.online/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f722ea9fc324f90acaef73"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-10",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f724f8a1d4525acd095ecf"
+  },
+  "id": "https://razer-x-dex.vercel.app/",
+  "views": 25
+},
+{
+  "_id": {
+    "$oid": "65f724f89fc324f90acdcd38"
+  },
+  "id": "https://razer-x-dex.vercel.app/",
+  "views": 16
+},
+{
+  "_id": {
+    "$oid": "65f724f8400fcade049c29d0"
+  },
+  "id": "https://razer-x-dex.vercel.app/",
+  "views": 12
+},
+{
+  "_id": {
+    "$oid": "65f726689fc324f90acfa6df"
+  },
+  "id": "https://dynamite-anime-english.000webhostapp.com/",
+  "views": 50
+},
+{
+  "_id": {
+    "$oid": "65f72668400fcade049e0a79"
+  },
+  "id": "https://dynamite-anime-english.000webhostapp.com/",
+  "views": 10,
+  "_id__baas_transaction": {
+    "$oid": "65fa3f9f9162cceacc0520d9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f72668a1d4525acd0b36ad"
+  },
+  "id": "https://dynamite-anime-english.000webhostapp.com/",
+  "views": 10,
+  "_id__baas_transaction": {
+    "$oid": "65fa3f9ff1e6af1ca0211f54"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f726689fc324f90acfa6f2"
+  },
+  "id": "https://dynamite-anime-english.000webhostapp.com/",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65f72838866ddc307e7cd379"
+  },
+  "id": "https://razerdex.vercel.app/",
+  "views": 155
+},
+{
+  "_id": {
+    "$oid": "65f72838232e241d23ad1aa8"
+  },
+  "id": "https://razerdex.vercel.app/",
+  "views": 51
+},
+{
+  "_id": {
+    "$oid": "65f72838400fcade04a0c976"
+  },
+  "id": "https://razerdex.vercel.app/",
+  "views": 29
+},
+{
+  "_id": {
+    "$oid": "65f72838866ddc307e7cd37d"
+  },
+  "id": "https://razerdex.vercel.app/",
+  "views": 26
+},
+{
+  "_id": {
+    "$oid": "65f7283859ccc49ae49f59f7"
+  },
+  "id": "https://razerdex.vercel.app/",
+  "views": 22
+},
+{
+  "_id": {
+    "$oid": "65f728389fc324f90ad25dd3"
+  },
+  "id": "https://razerdex.vercel.app/",
+  "views": 16,
+  "_id__baas_transaction": {
+    "$oid": "65f7f44ca1d4525acd124dbd"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f729ad400fcade04a224d0"
+  },
+  "id": "https://vvid.xyz/embed.php?id=one-piece-episode-759",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f72ade9fc324f90ad50495"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-dub-episode-7",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f72b3f59ccc49ae4a262f8"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-dub-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f72b929fc324f90ad5c143"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-1",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f72f159fc324f90ad9bffe"
+  },
+  "id": "https://gogomovie.online/embed.html?url=https://www038.vipanicdn.net/streamhls/ae206309a134d9541879f0703f134741/ep.8.1709236393.m3u8&id=null-episode-null",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f733bba1d4525acd1b398c"
+  },
+  "id": "https://gogomovie.online/embed.html?url=https://www113.vipanicdn.net/streamhls/ebe70d1657abaddb3f7a20372fec6547/ep.23.1710670341.m3u8&id=null-episode-null",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f734e059ccc49ae4ae23e8"
+  },
+  "id": "https://gogomovie.online/embed.html?url=https://www034.vipanicdn.net/streamhls/33fd690b2851bf39ea796f69e3b4c78f/ep.22.1709458097.m3u8&id=null-episode-null",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f746efa1d4525acd3519d4"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-2",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f74adf59ccc49ae4cb269d"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-3",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f74b28400fcade04ccf19c"
+  },
+  "id": "https://vvid.xyz/embed.php?id=nozomanu-fushi-no-boukensha-episode-9",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f781bea1d4525acd764061"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-4",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f7bfa359ccc49ae44f27b8"
+  },
+  "id": "https://www.minoshima.net/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7c113a1d4525acdbf0a85"
+  },
+  "id": "https://vvid.xyz/embed.php?id=5-toubun-no-hanayome-movie-episode-1",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f7c1649fc324f90a84774a"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tensei-shitara-slime-datta-ken-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7c1b9400fcade0454fda2"
+  },
+  "id": "https://vvid.xyz/embed.php?id=bleach-movie-2-the-diamond-dust-rebellion-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7c1ff59ccc49ae453b52f"
+  },
+  "id": "https://vvid.xyz/embed.php?id=bleach-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7c20b400fcade04556965"
+  },
+  "id": "https://vvid.xyz/embed.php?id=bleach-episode-310",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7c251a1d4525acdc1105e"
+  },
+  "id": "https://vvid.xyz/embed.php?id=5-toubun-no-hanayome-2-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7c26aa1d4525acdc1624e"
+  },
+  "id": "https://vvid.xyz/embed.php?id=5-toubun-no-hanayome-2-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7c4d5a1d4525acdc41959"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 394
+},
+{
+  "_id": {
+    "$oid": "65f7c4d5a1d4525acdc4195d"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 34
+},
+{
+  "_id": {
+    "$oid": "65f7c4d559ccc49ae4579b07"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 15
+},
+{
+  "_id": {
+    "$oid": "65f7c4d5400fcade04593a85"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 13
+},
+{
+  "_id": {
+    "$oid": "65f7c4d5400fcade04593a87"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 11
+},
+{
+  "_id": {
+    "$oid": "65f7c4d59fc324f90a89331f"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65f7c4d5400fcade04593ab9"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 6
+},
+{
+  "_id": {
+    "$oid": "65f7c4d5400fcade04593abc"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f7c4d559ccc49ae4579b32"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f7c4d559ccc49ae4579b34"
+  },
+  "id": "https://aniverse.cloud/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f7ce3e9fc324f90a9743e7"
+  },
+  "id": "https://eng.deadtoons.online/embed.html?url=https://www038.vipanicdn.net/streamhls/81727234f0150714e4223d368e7d5141/ep.9.1710298732.m3u8&episode_id=ore-dake-level-up-na-ken-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f7fa9059ccc49ae4b2275d"
+  },
+  "id": "https://vvid.xyz/embed.php?id=shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd-episode-11",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8014e59ccc49ae4bd8763"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=ore-dake-level-up-na-ken&episode_id=ore-dake-level-up-na-ken-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8014e400fcade04bf900e"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=ore-dake-level-up-na-ken&episode_id=ore-dake-level-up-na-ken-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8014e59ccc49ae4bd876a"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=ore-dake-level-up-na-ken&episode_id=ore-dake-level-up-na-ken-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f80151a1d4525acd27d672"
+  },
+  "id": "https://eng.deadtoons.online/embed.html?url=https://www110.vipanicdn.net/streamhls/81727234f0150714e4223d368e7d5141/ep.10.1710608857.m3u8&episode_id=ore-dake-level-up-na-ken-episode-10",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8043659ccc49ae4c2f719"
+  },
+  "id": "https://www.aniverse.cloud/",
+  "views": 57
+},
+{
+  "_id": {
+    "$oid": "65f8054d59ccc49ae4c62e5b"
+  },
+  "id": "https://kanime.vercel.app/",
+  "views": 26
+},
+{
+  "_id": {
+    "$oid": "65f80df8400fcade04d875d0"
+  },
+  "id": "http://localhost:4321/",
+  "views": 150
+},
+{
+  "_id": {
+    "$oid": "65f821eda1d4525acd695958"
+  },
+  "id": "https://animewebjs.web.app/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f82ea1ba8c5a9e25243434"
+  },
+  "id": "https://baryonmode.online/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f82ea15d4e69afe2468c4c"
+  },
+  "id": "https://baryonmode.online/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f82ea1b600f7537654585f"
+  },
+  "id": "https://baryonmode.online/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f82ea159ccc49ae418859d"
+  },
+  "id": "https://baryonmode.online/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f82ea1ba8c5a9e2524344e"
+  },
+  "id": "https://baryonmode.online/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f82ea1400fcade041ac0ad"
+  },
+  "id": "https://baryonmode.online/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f82ea15d4e69afe2468c5f"
+  },
+  "id": "https://baryonmode.online/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8307f59ccc49ae41d2651"
+  },
+  "id": "https://eng.deadtoons.online/anime.html?anime_id=one-piece",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f8307f59ccc49ae41d2655"
+  },
+  "id": "https://eng.deadtoons.online/anime.html?anime_id=one-piece",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f831b959ccc49ae41ff45c"
+  },
+  "id": "https://techshreyash.github.io/",
+  "views": 67
+},
+{
+  "_id": {
+    "$oid": "65f831b959ccc49ae41ff45e"
+  },
+  "id": "https://techshreyash.github.io/",
+  "views": 30
+},
+{
+  "_id": {
+    "$oid": "65f831b9400fcade04206c7d"
+  },
+  "id": "https://techshreyash.github.io/",
+  "views": 22
+},
+{
+  "_id": {
+    "$oid": "65f831b9400fcade04206c81"
+  },
+  "id": "https://techshreyash.github.io/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f831b9400fcade04206c83"
+  },
+  "id": "https://techshreyash.github.io/",
+  "views": 14
+},
+{
+  "_id": {
+    "$oid": "65f831b9a1d4525acd886834"
+  },
+  "id": "https://techshreyash.github.io/",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f831b95d4e69afe24c16aa"
+  },
+  "id": "https://techshreyash.github.io/",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f83957400fcade042f6279"
+  },
+  "id": "https://eng.deadtoons.online/anime.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f8395759ccc49ae42e04e2"
+  },
+  "id": "https://eng.deadtoons.online/anime.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f83963400fcade042f73f2"
+  },
+  "id": "https://eng.deadtoons.online/embed.html?url=https://www116.vipanicdn.net/streamhls/300ee847ec1def4e9ba495e302f4611f/ep.1.1709156944.m3u8&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f839cd400fcade04304305"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 11
+},
+{
+  "_id": {
+    "$oid": "65f839cda1d4525acd998260"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f839cda1d4525acd998267"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f839cd59ccc49ae42eeb37"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f839cd59ccc49ae42eeb44"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f839cd59ccc49ae42eeb48"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f839cda1d4525acd99826e"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f839cda1d4525acd998280"
+  },
+  "id": "https://eng.deadtoons.online/episode.html?anime_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season&episode_id=youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f84620400fcade0446a485"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-5",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f84a0659ccc49ae44df144"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-6",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f85174a1d4525acdc6f748"
+  },
+  "id": "https://pt7beta.vercel.app/",
+  "views": 12
+},
+{
+  "_id": {
+    "$oid": "65f8517497cbd2fe2d30b6e0"
+  },
+  "id": "https://pt7beta.vercel.app/",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f8552d59ccc49ae460c699"
+  },
+  "id": "https://animexrajin.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8a67e45f656f7e319400a"
+  },
+  "id": "https://anime1001.netlify.app/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f8a67e9162cceacc9cd998"
+  },
+  "id": "https://anime1001.netlify.app/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f8a67e9162cceacc9cd995"
+  },
+  "id": "https://anime1001.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8a67e1ff191e74b0ed243"
+  },
+  "id": "https://anime1001.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8a67e45f656f7e3194017"
+  },
+  "id": "https://anime1001.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8a67e45f656f7e3194019"
+  },
+  "id": "https://anime1001.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8c46f5e6c0b4759f09e85"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-7",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8c8141ff191e74b357458"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-8",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f8cd011ff191e74b3a52d6"
+  },
+  "id": "https://vvid.xyz/embed.php?id=gotoubun-no-hanayome-dub-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8cd2f1ff191e74b3a825b"
+  },
+  "id": "https://vvid.xyz/embed.php?id=5-toubun-no-hanayome-2-dub-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f8cd791ff191e74b3b11b6"
+  },
+  "id": "https://vvid.xyz/embed.php?id=5-toubun-no-hanayome-episode-1",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f8dd7b53ae68748237d094"
+  },
+  "id": "https://vvid.xyz/embed.php?id=urusei-yatsura-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f90f32e1a372223263b33a"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-9",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f912739162cceacc159437"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-10",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f9169e9162cceacc1b8841"
+  },
+  "id": "https://komikkui.blogspot.com/",
+  "views": 11
+},
+{
+  "_id": {
+    "$oid": "65f9169e1ff191e74b8d20be"
+  },
+  "id": "https://komikkui.blogspot.com/",
+  "views": 11
+},
+{
+  "_id": {
+    "$oid": "65f9179e42fccc7f948bf6ab"
+  },
+  "id": "https://animedex1s.blogspot.com/",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f9179ee1a37222326f54f1"
+  },
+  "id": "https://animedex1s.blogspot.com/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f948cd9162cceacc77afc0"
+  },
+  "id": "https://vvid.xyz/embed.php?id=oroka-na-tenshi-wa-akuma-to-odoru-episode-11",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f94ddeff857322d430da05"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-11",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f94fa3ff857322d43408f7"
+  },
+  "id": "https://anime-dex.netlify.app/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f95f819162cceacca83c1c"
+  },
+  "id": "https://projectathena.pages.dev/",
+  "views": 99
+},
+{
+  "_id": {
+    "$oid": "65f95f819162cceacca83c1e"
+  },
+  "id": "https://projectathena.pages.dev/",
+  "views": 38
+},
+{
+  "_id": {
+    "$oid": "65f95f819162cceacca83c20"
+  },
+  "id": "https://projectathena.pages.dev/",
+  "views": 28
+},
+{
+  "_id": {
+    "$oid": "65f95f81e1a3722232f7aabb"
+  },
+  "id": "https://projectathena.pages.dev/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65f95f819162cceacca83c2d"
+  },
+  "id": "https://projectathena.pages.dev/",
+  "views": 16
+},
+{
+  "_id": {
+    "$oid": "65f95f82e1a3722232f7ab60"
+  },
+  "id": "https://projectathena.pages.dev/",
+  "views": 16
+},
+{
+  "_id": {
+    "$oid": "65f988072d999d662773424d"
+  },
+  "id": "https://animxer.xyz/anime?anime_id=Sousou%20no%20Frieren",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9880789bfafbef16ee208"
+  },
+  "id": "https://animxer.xyz/anime?anime_id=Sousou%20no%20Frieren",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9881a2d999d6627736221"
+  },
+  "id": "https://animxer.xyz/embed?url=https://www118.vipanicdn.net/streamhls/7f8dd00fcdec4483b9ff13f47a3ec4e2/ep.21.1709150949.m3u8&episode_id=sousou-no-frieren-episode-21",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9884b1ff191e74b75a73a"
+  },
+  "id": "https://animxer.xyz/embed?url=https://www041.vipanicdn.net/streamhls/7f8dd00fcdec4483b9ff13f47a3ec4e2/ep.25.1709311506.m3u8&episode_id=sousou-no-frieren-episode-25",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f98bbb9162cceacc0c12d7"
+  },
+  "id": "https://animedex.pages.dev/anime?anime_id=black-lagoon-the-second-barrage-dub",
+  "views": 15
+},
+{
+  "_id": {
+    "$oid": "65f98bd489bfafbef1769276"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www115.vipanicdn.net/streamhls/6799e5ffd902f036bf34ccd655f6755c/ep.4.1709580557.m3u8&episode_id=black-lagoon-the-second-barrage-dub-episode-4",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f98bde2d999d66277cabd3"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-4",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f98bde2d999d66277cabdc"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-4",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f98bde2d999d66277cabf6"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-4",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f98bde89bfafbef176a5a8"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-4",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f98bde1ff191e74b7cd4f4"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-4",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f98bde9162cceacc0c5192"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-4",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f98e061ff191e74b8160be"
+  },
+  "id": "https://animxer.xyz/embed?url=https://www033.vipanicdn.net/streamhls/7f8dd00fcdec4483b9ff13f47a3ec4e2/ep.26.1709915904.m3u8&episode_id=sousou-no-frieren-episode-26",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f98e589162cceacc1268cc"
+  },
+  "id": "https://1x77.org/",
+  "views": 28
+},
+{
+  "_id": {
+    "$oid": "65f98e589162cceacc1268e8"
+  },
+  "id": "https://1x77.org/",
+  "views": 13
+},
+{
+  "_id": {
+    "$oid": "65f98e581ff191e74b827e9c"
+  },
+  "id": "https://1x77.org/",
+  "views": 13
+},
+{
+  "_id": {
+    "$oid": "65f994f99162cceacc1d9168"
+  },
+  "id": "https://animemystic.netlify.app/",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65f995372d999d66278d5af1"
+  },
+  "id": "https://animedex.pages.dev/anime?anime_id=bleach-dub",
+  "views": 22
+},
+{
+  "_id": {
+    "$oid": "65f995379162cceacc1e0278"
+  },
+  "id": "https://animedex.pages.dev/anime?anime_id=bleach-dub",
+  "views": 8
+},
+{
+  "_id": {
+    "$oid": "65f995839162cceacc1e83ba"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www032.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.1.1709258176.m3u8&episode_id=bleach-dub-episode-1",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f995ac1ff191e74b900b39"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www044.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.351.1709244296.m3u8&episode_id=bleach-dub-episode-351",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f995b67947218f6ee43b09"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-351",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f995b62d999d66278e2943"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-351",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f995b62d999d66278e2954"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-351",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f995b69162cceacc1ed6c6"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-351",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f995b61ff191e74b901d8c"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-351",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f995da9162cceacc1f130c"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www045.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.352.1709255384.m3u8&episode_id=bleach-dub-episode-352",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f995f17947218f6ee49aef"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-352",
+  "views": 7
+},
+{
+  "_id": {
+    "$oid": "65f995f19162cceacc1f3816"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-352",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f995f11ff191e74b90805a"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-352",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f995f19162cceacc1f3846"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-352",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9961f1ff191e74b90c960"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www047.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.353.1709244068.m3u8&episode_id=bleach-dub-episode-353",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f998d41ff191e74b955b94"
+  },
+  "id": "http://localhost:3001/",
+  "views": 420
+},
+{
+  "_id": {
+    "$oid": "65f99ae17947218f6eeff7f9"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-353",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f99ae19162cceacc290175"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-353",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f99ae149391a1f9ea997d8"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-353",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f99ae149391a1f9ea99840"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-353",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f99b1049391a1f9ea9c8f7"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www048.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.354.1709253007.m3u8&episode_id=bleach-dub-episode-354",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f99e4a1ff191e74b9eda35"
+  },
+  "id": "https://a6b2f256-6a13-4243-b695-ef2f8c1a1b1d-00-2awjosf84rigt.kirk.replit.dev/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f99e4a9162cceacc2e21b5"
+  },
+  "id": "https://a6b2f256-6a13-4243-b695-ef2f8c1a1b1d-00-2awjosf84rigt.kirk.replit.dev/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f99fd57947218f6ef7bbb4"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-5",
+  "views": 34
+},
+{
+  "_id": {
+    "$oid": "65f99fd51ff191e74ba18de5"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-5",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65f99fd549391a1f9eb158b3"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-5",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f99fd57947218f6ef7bbd3"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-5",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f99fd61ff191e74ba18e12"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-5",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f9a01b1ff191e74ba2073d"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www116.vipanicdn.net/streamhls/6799e5ffd902f036bf34ccd655f6755c/ep.5.1709575998.m3u8&episode_id=black-lagoon-the-second-barrage-dub-episode-5",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f9a5421ff191e74babc449"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-354",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f9a5429162cceacc3b12c3"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-354",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9a54249391a1f9ebb6e97"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-354",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9a5429162cceacc3b12cf"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-354",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9a54249391a1f9ebb6f05"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-354",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9a54249391a1f9ebb6f16"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-354",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9a5979162cceacc3bb702"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-355",
+  "views": 9
+},
+{
+  "_id": {
+    "$oid": "65f9a59749391a1f9ebbfc55"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-355",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f9a5ba7947218f6e029c44"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www080.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.355.1703887322.m3u8&episode_id=bleach-dub-episode-355",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f9a8587947218f6e071f76"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-1",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f9a8581ff191e74bb0ca69"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-1",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f9a8589162cceacc4032ab"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-1",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9a87d9162cceacc407cbf"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www081.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.356.1703906805.m3u8&episode_id=bleach-dub-episode-356",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9aef79162cceacc4b94df"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-356",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f9aef79162cceacc4b94e1"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-356",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9aef71b5695128da66c00"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-356",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9aef79162cceacc4b94ed"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-356",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9aef76f773348b31d23b8"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-356",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9aef77947218f6e125db4"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-356",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9af699162cceacc4c2a4d"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www082.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.357.1703892980.m3u8&episode_id=bleach-dub-episode-357",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9b65249391a1f9ed83ca8"
+  },
+  "id": "https://anime.deekayvpn.us/",
+  "views": 163
+},
+{
+  "_id": {
+    "$oid": "65f9b89249391a1f9edc036c"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-357",
+  "views": 5
+},
+{
+  "_id": {
+    "$oid": "65f9b8929162cceacc5cab8b"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-357",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f9bab649391a1f9ee05683"
+  },
+  "id": "http://anistream.free.nf/",
+  "views": 3
+},
+{
+  "_id": {
+    "$oid": "65f9bab69162cceacc6105e4"
+  },
+  "id": "http://anistream.free.nf/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9bab61ff191e74bd81e1d"
+  },
+  "id": "http://anistream.free.nf/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9bab61ff191e74bd81e26"
+  },
+  "id": "http://anistream.free.nf/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9c7539162cceacc746430"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www117.vipanicdn.net/streamhls/6799e5ffd902f036bf34ccd655f6755c/ep.6.1709588050.m3u8&episode_id=black-lagoon-the-second-barrage-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9c8f09162cceacc76b11a"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-358",
+  "views": 12
+},
+{
+  "_id": {
+    "$oid": "65f9c8f09162cceacc76b12f"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-358",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f9c9557947218f6e3cedd9"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www083.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.358.1703896439.m3u8&episode_id=bleach-dub-episode-358",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f9d25449391a1f9e03b79b"
+  },
+  "id": "http://atekinz.tr.ht/",
+  "views": 29
+},
+{
+  "_id": {
+    "$oid": "65f9d2541ff191e74bfba9b8"
+  },
+  "id": "http://atekinz.tr.ht/",
+  "views": 4
+},
+{
+  "_id": {
+    "$oid": "65f9d2547947218f6e4a3fdf"
+  },
+  "id": "http://atekinz.tr.ht/",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f9d25449391a1f9e03b7ab"
+  },
+  "id": "http://atekinz.tr.ht/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9d2547947218f6e4a3fe3"
+  },
+  "id": "http://atekinz.tr.ht/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9da599162cceacc93bb58"
+  },
+  "id": "https://animedex.pages.dev/embed?url=https://www084.vipanicdn.net/streamhls/f643f0c19d5bee9f1c3aed888eee75d6/ep.359.1703894078.m3u8&episode_id=bleach-dub-episode-359",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9da689162cceacc93dd41"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=bleach-dub&episode_id=bleach-dub-episode-359",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9e80f9162cceacca7533f"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-6",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65f9e80f33864427187746b4"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9e80f9162cceacca7534f"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9e80f351d03e857e703b7"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9e80f33864427187746c4"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9e80f1ff191e74b1ecc43"
+  },
+  "id": "https://animedex.pages.dev/episode?anime_id=black-lagoon-the-second-barrage-dub&episode_id=black-lagoon-the-second-barrage-dub-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9f1f21ff191e74b2b076d"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-11",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65f9f5fe1ff191e74b3024db"
+  },
+  "id": "https://vvid.xyz/embed.php?id=xian-wang-de-richang-shenghuo-4-episode-12",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fa277f9162cceaccf02c70"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tate-no-yuusha-no-nariagari-episode-1",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65fa3ee4f1e6af1ca02069e9"
+  },
+  "id": "https://1001anime.com/",
+  "views": 29
+},
+{
+  "_id": {
+    "$oid": "65fa3ee4f1e6af1ca02069eb"
+  },
+  "id": "https://1001anime.com/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65fa3ee4f1e6af1ca02069f4"
+  },
+  "id": "https://1001anime.com/",
+  "views": 18
+},
+{
+  "_id": {
+    "$oid": "65fa3ee5f1e6af1ca0206a1d"
+  },
+  "id": "https://1001anime.com/",
+  "views": 15
+},
+{
+  "_id": {
+    "$oid": "65fa3ee49162cceacc046bdb"
+  },
+  "id": "https://1001anime.com/",
+  "views": 13
+},
+{
+  "_id": {
+    "$oid": "65fa40839162cceacc05d037"
+  },
+  "id": "https://www.1001anime.com/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fa40837947218f6ecc9e74"
+  },
+  "id": "https://www.1001anime.com/",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fa4a769162cceacc0fdff9"
+  },
+  "id": "https://eclectic-custard-73bafd.netlify.app/",
+  "views": 292
+},
+{
+  "_id": {
+    "$oid": "65fa509f1ff191e74b8f2136"
+  },
+  "id": "https://prueba12435172653712.blogspot.com/",
+  "views": 128
+},
+{
+  "_id": {
+    "$oid": "65fa56107947218f6ee31a8f"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tate-no-yuusha-no-nariagari-episode-2",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fa5b377947218f6ee88fbb"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tate-no-yuusha-no-nariagari-episode-3",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fa60137947218f6eeeb048"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tate-no-yuusha-no-nariagari-episode-4",
+  "views": 2
+},
+{
+  "_id": {
+    "$oid": "65fa6b89c9a86c3d3ac52685"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tate-no-yuusha-no-nariagari-episode-5",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fa7107c9a86c3d3acf1519"
+  },
+  "id": "https://vvid.xyz/embed.php?id=tate-no-yuusha-no-nariagari-episode-6",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fa7c2d78f75992b8dee155"
+  },
+  "id": "https://chandugay.netlify.app/",
+  "views": 61
+},
+{
+  "_id": {
+    "$oid": "65fababe0cab35164ff1ebc7"
+  },
+  "id": "https://holymix.netlify.app/",
+  "views": 812
+},
+{
+  "_id": {
+    "$oid": "65fabf340cab35164ff91718"
+  },
+  "id": "https://vvid.xyz/embed.php?id=akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-episode-11",
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "65fac9bac94c58090f02d2b4"
+  },
+  "id": "https://65fac9814e814200072da1e8--holymix.netlify.app/",
+  "views": 20
+},
+{
+  "_id": {
+    "$oid": "65faca4b7947218f6eb6b105"
+  },
+  "id": "https://65fac9f9c3da660008ff05e6--holymix.netlify.app/",
+  "views": 10
+},
+{
+  "_id": {
+    "$oid": "65facabf9162cceaccec7673"
+  },
+  "id": "https://65faca9d3b1079000867bff6--holymix.netlify.app/",
+  "views": 30
+},
+{
+  "_id": {
+    "$oid": "65facb137947218f6eb89068"
+  },
+  "id": "https://65facad0d775d7000848a45c--holymix.netlify.app/",
+  "views": 60
+},
+{
+  "_id": {
+    "$oid": "65facb437947218f6eb8e65b"
+  },
+  "id": "https://65facb24602b390008f75ace--holymix.netlify.app/",
+  "views": 30
+}]
